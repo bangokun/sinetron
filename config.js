@@ -52,18 +52,18 @@ global.sdc = 'https://discord.gg/WEJQjugTY7'
 global.snh = 'https://youtube.com/c/LeonGanz/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085608625102'
-global.povo = '085608625102'
-global.pgopay = '085608625102'
-global.ppulsa = '085608625102'
-global.ppulsa2 = '085608625102'
-global.psaweria = 'https://saweria.com/LeonGanz'
+global.pdana = '085738639969'
+global.povo = '.'
+global.pgopay = '.'
+global.ppulsa = '085738639969'
+global.ppulsa2 = '.'
+global.psaweria = '.'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62895410472842'
-global.nomorown = '6285608625102'
-global.namebot = 'Yui - Chan'
-global.nameown = 'Rama -Agung'
+global.nomorbot = '14164451544'
+global.nomorown = '085738639969'
+global.namebot = 'Crash'
+global.nameown = 'Agus'
 
 
 /*============== STAFF ==============*/
@@ -190,8 +190,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Yui - Chan'
-global.stickauth = `By ©LeonGanz`
+global.stickpack = 'Crash'
+global.stickauth = `By ©Crash`
 
 global.multiplier = 38 // The higher, The harder levelup
 
