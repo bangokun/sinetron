@@ -45,11 +45,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/leonvx._'
-global.sgh = 'https://bl4ck-lion.github.io/index.php'
-global.sgc = 'https://chat.whatsapp.com/HHjPtKIjkzb1ud0QtrkbQH'
-global.sdc = 'https://discord.gg/WEJQjugTY7'
-global.snh = 'https://youtube.com/c/LeonGanz/'
+global.sig = 'https://instagram.com/ktgakuma?igshid=YmMyMTA2M2Y=._'
+global.sgh = '-'
+global.sgc = 'https://chat.whatsapp.com/HD1beIc0IeO4pGZLJJRNLV'
+global.sdc = '-'
+global.snh = 'https://youtu.be/NwFVSclD_uc'
 
 /*============== PAYMENT ==============*/
 global.pdana = '085738639969'
@@ -61,17 +61,17 @@ global.psaweria = '.'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '14164451544'
-global.nomorown = '085738639969'
+global.nomorown = '6285738639969'
 global.namebot = 'Crash'
 global.nameown = 'Agus'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285608625102', 'Rama Agung', true],
-  ['6282351319893', 'Muhimmah Putri', true],
-  ['6283847909854', 'Zaky Rashif', true],
-  ['6287877173955', 'Ferdiz-Afk', true] //Ganti jd nomormu sama Namamu
+  ['6285738639969', 'Owner', true],
+  ['.', '.', true],
+  ['.', '.', true],
+  ['.', '.', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -116,13 +116,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Yui - Chan 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Yui - Chan ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Yui - Chan '
+global.wm = '                「 Crash 」' //Main Watermark
+global.wm2 = 'BotCrash'
+global.wm3 = '⫹⫺ Crash '
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By LeonGanz`
-global.author = '                「 Yui - Chan  あ⁩ 」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By Crash-Olipato`
+global.author = '                「 Olipato⁩ 」'
 
 
 /*============== LOGO ==============*/
