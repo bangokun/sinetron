@@ -31,8 +31,8 @@ https://github.com/raselcomel
 https://github.com/Ftwrr
 *❉ Rominaru:*
 https://github.com/Rominaru
-*❉ Kannachann:*
-https://github.com/Kannachann
+*❉ Craseolip:*
+https://github.com/bangokun
 *❉ The.sad.boy01:*
 https://github.com/kangsad01
 *❉ Ameliascrf:*
@@ -57,7 +57,7 @@ https://github.com/FahriAdison
 *❉ ImYanXiao:*
 https://github.com/ImYanXiao
 *▸ - - - —「 Thanks For Suhu 」— - - - ◂*
-*❉ Kannachan:*
+*❉ Craseolip:*
 *❉ Papah-Chan:*
 *❉ Johannes:*
 *❉ Krisna:*
@@ -68,7 +68,7 @@ conn.sendButtonDoc(m.chat, tqto, wm,'Thanks','Bilek', m, { contextInfo: { extern
     mediaUrl: "https://Instagram.com/Xiao_yan_21",
     mediaType: "VIDEO",
     description: "https://Instagram.com/Xiao_yan_21", 
-    title: 'Kanna-MultiDevice',
+    title: 'Craseolip-MultiDevice',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sgc
